@@ -1,0 +1,17 @@
+{
+  "sendSMSOnReception": true,
+  "sendSMSOnCompletion": true,
+  "sendEmailOnReception": false,
+  "sendEmailOnCompletion": false,
+  "smsPanel": {
+    "isActive": true,
+    "username": "toyotaahmadi",
+    "password": "******",
+    "apiKey": "******",
+    "senderNumber": "3000505"
+  },
+  "smsTemplates": {
+    "reception": "مشتری گرامی {customerName}، خودرو شما با پلاک {plateNumber} در تاریخ {date} با شماره پذیرش {receptionNumber} در تعمیرگاه تویوتا احمدی پذیرش شد. با تشکر",
+    "completion": "مشتری گرامی {customerName}، تعمیر خودرو شما با پلاک {plateNumber} به اتمام رسیده و آماده تحویل می‌باشد. هزینه کل: {totalCost}. با تشکر، تعمیرگاه تویوتا احمدی"
+  }
+}

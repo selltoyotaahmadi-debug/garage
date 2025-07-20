@@ -1,0 +1,15 @@
+{
+  "companyName": "تعمیرگاه تویوتا احمدی",
+  "companyPhone": "021-12345678",
+  "companyAddress": "تهران، خیابان آزادی، پلاک 123",
+  "companyEmail": "info@toyota-ahmadi.com",
+  "defaultCurrency": "تومان",
+  "taxRate": 9,
+  "defaultLaborRate": 150000,
+  "receiptFooterText": "با تشکر از اعتماد شما - تعمیرگاه تویوتا احمدی",
+  "workingHours": {
+    "start": "08:00",
+    "end": "17:00"
+  },
+  "workingDays": ["شنبه", "یکشنبه", "دوشنبه", "سه‌شنبه", "چهارشنبه", "پنجشنبه"]
+}

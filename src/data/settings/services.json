@@ -1,0 +1,35 @@
+{
+  "defaultServiceDuration": 60,
+  "minServiceInterval": 30,
+  "reminderTime": 24,
+  "cancelationPeriod": 12,
+  "allowOnlineBooking": true,
+  "requireDeposit": false,
+  "depositAmount": 500000,
+  "defaultServices": [
+    {
+      "id": "1",
+      "name": "تعویض روغن",
+      "duration": 30,
+      "price": 150000
+    },
+    {
+      "id": "2",
+      "name": "سرویس دوره‌ای",
+      "duration": 120,
+      "price": 500000
+    },
+    {
+      "id": "3",
+      "name": "تعویض لنت ترمز",
+      "duration": 60,
+      "price": 300000
+    },
+    {
+      "id": "4",
+      "name": "تنظیم موتور",
+      "duration": 90,
+      "price": 400000
+    }
+  ]
+}

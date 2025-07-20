@@ -1,0 +1,54 @@
+{
+  "carAccessories": [
+    {
+      "id": "1",
+      "name": "جک",
+      "isDefault": true
+    },
+    {
+      "id": "2",
+      "name": "زاپاس",
+      "isDefault": true
+    },
+    {
+      "id": "3",
+      "name": "آچار چرخ",
+      "isDefault": true
+    },
+    {
+      "id": "4",
+      "name": "مثلث خطر",
+      "isDefault": true
+    },
+    {
+      "id": "5",
+      "name": "کپسول آتش‌نشانی",
+      "isDefault": false
+    },
+    {
+      "id": "6",
+      "name": "جعبه کمک‌های اولیه",
+      "isDefault": false
+    },
+    {
+      "id": "7",
+      "name": "رادیو پخش",
+      "isDefault": true
+    },
+    {
+      "id": "8",
+      "name": "فندک",
+      "isDefault": true
+    },
+    {
+      "id": "9",
+      "name": "کفپوش",
+      "isDefault": true
+    },
+    {
+      "id": "10",
+      "name": "روکش صندلی",
+      "isDefault": false
+    }
+  ]
+}

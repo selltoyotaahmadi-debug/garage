@@ -1,0 +1,85 @@
+{
+  "name": "TOYOTA AHMADI - سیستم مدیریت تعمیرگاه",
+  "short_name": "TOYOTA AHMADI",
+  "description": "سیستم مدیریت تعمیرگاه تویوتا احمدی",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "toyota-icon-192.png",
+      "sizes": "192x192", 
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "toyota-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "toyota-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "toyota-icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "toyota-icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "toyota-icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "screenshot-wide.png",
+      "sizes": "1280x720", 
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot-narrow.png",
+      "sizes": "750x1334", 
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "داشبورد",
+      "short_name": "داشبورد",
+      "description": "مشاهده داشبورد اصلی",
+      "url": "/",
+      "icons": [{ "src": "toyota-icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "مشتریان",
+      "short_name": "مشتریان",
+      "description": "مدیریت مشتریان",
+      "url": "/?view=customers",
+      "icons": [{ "src": "toyota-icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "کارت‌های کاری",
+      "short_name": "کارت‌ها",
+      "description": "مدیریت کارت‌های کاری",
+      "url": "/?view=jobcards",
+      "icons": [{ "src": "toyota-icon-96.png", "sizes": "96x96" }]
+    }
+  ]
+}

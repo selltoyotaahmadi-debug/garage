@@ -1,3 +1,10 @@
 {
-  "currentUser": null
+  "currentUser": {
+    "id": "1",
+    "username": "admin",
+    "name": "مدیر سیستم",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2025-07-16T14:03:00.268Z"
+  }
 }
